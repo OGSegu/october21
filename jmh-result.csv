@@ -1,0 +1,10 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99,9%)","Unit","Param: listSize"
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"0,014752","0,006456","us/op",0
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"13732,281735","2068,433459","us/op",100000
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"31837,331457","3640,303830","us/op",200000
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"46510,780000","8006,185082","us/op",300000
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"141790,290083","395957,085591","us/op",400000
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"84781,273267","18208,226777","us/op",500000
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"127404,630200","98581,240439","us/op",600000
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"147462,060100","131372,169899","us/op",700000
+"org.example.MyBenchmark.atomicLong","avgt",1,5,"186343,459800","173064,676202","us/op",800000
